@@ -2,7 +2,7 @@
 Unsupervised analysis of Mars rover environmental data using Autoencoders and Clustering
 ## Project Report
 You can view the detailed project report here:  
-[Download Report](docs/Mars_Rover_AI_Report.pdf)
+[Download Report](https://github.com/hanazee-04/Case-study-on-Unsupervised-Analysis-of-Mars-Rover-Environmental-Data-Using-ML/blob/main/case%20study%20report.pdf)
 
 ## Objectives
 - Perform exploratory data analysis (EDA) on Mars environmental data  
@@ -60,7 +60,7 @@ project/
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/hanazee-04/Case-study-on-Unsupervised-Analysis-of-Mars-Rover-Environmental-Data-Using-ML.git)
+git clone (https://github.com/hanazee-04/Case-study-on-Unsupervised-Analysis-of-Mars-Rover-Environmental-Data-Using-ML.git)
 
 
 2. Install dependencies:
