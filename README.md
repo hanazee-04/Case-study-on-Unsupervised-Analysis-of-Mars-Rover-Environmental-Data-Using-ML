@@ -60,7 +60,7 @@ project/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/hanazee-04/Case-study-on-Unsupervised-Analysis-of-Mars-Rover-Environmental-Data-Using-ML.git)
 
 
 2. Install dependencies:
